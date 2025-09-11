@@ -14,7 +14,7 @@
 
 > “I don’t use libraries — I *forge minds* from scratch.”
 
-I’m **Saurabh Rana**, a.k.a. **Ghost Engineer**, and I don’t build software — I engineer synthetic cognition.  
+I’m **Saurabh Rana**, a.k.a. **A mad scientist**, and I don’t build software — I engineer synthetic cognition.  
 From **bare-metal logic gates** to **neural networks with memory**, I’m designing systems that **evolve**, **learn**, and **simulate**.
 
 ---
@@ -26,13 +26,13 @@ From **bare-metal logic gates** to **neural networks with memory**, I’m design
 | **NeuroForge**   | A fully custom-built neural network framework. No TensorFlow. No PyTorch. Just raw logic and fire. |
 | **LLM-X**        | Lightweight, modular large language model designed for embedded and low-resource execution. |
 | **SynapseSim**   | A machine learning simulation core with layered feedback, memory cycles, and adaptive tuning. |
-| **MicroCoreOS**  | Building an ultra-efficient operating system tailored for AI workloads and embedded cognition systems. |
+| **MicroOS**  | Building an ultra-efficient operating system tailored for AI workloads and embedded cognition systems. |
 
 ---
 
 ### 🧰 Tech Stack
 
-- **Languages**: C++, Python, x86 ASM, Rust (soon)
+- **Languages**: C++, Python, x86 ASM, Rust
 - **Neural Stuff**: Custom architectures, emotional layers, simulation-based training
 - **Hardware**: DIY logic design, processor blueprints, memory control systems
 - **ML Stack**: No bloat — all handcrafted, optimized, test-loop hardened
