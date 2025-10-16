@@ -1,6 +1,6 @@
 # Hi 👋, I'm Saurabh Rana
 
-### A passionate Software Engineer
+### Passionate Software Engineer
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=saurabhrana0w0&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhrana0w0" />
@@ -20,13 +20,13 @@
 
 ---
 
-- 🔭 I’m currently working on [MicroOS](https://microos.io/)
-- 🌱 I’m learning Robotics Engineering
-- 👨‍💻 My projects: https://saurabhrana0w0.com
-- 📝 I regularly write: https://saurabhrana0w0.com/blog
-- 💬 Ask me about any Software Engineering related questions
-- 📫 Reach me: contact@saurabhrana0w0.com
-- 📄 Resume: https://saurabhrana0w0.com/resume
+- 🔭 I’m currently working on [MicroOS](https://microos.io/).
+- 🌱 I’m currently learning Robotics Engineering.
+- 👨‍💻 All of my projects are available at: https://saurabhrana0w0.com
+- 📝 I regularly write articles at: https://saurabhrana0w0.com/blog
+- 💬 Ask me about any software engineering–related questions.
+- 📫 How to reach me: contact@saurabhrana0w0.com
+- 📄 Read my resume: https://saurabhrana0w0.com/resume
 
 ---
 
