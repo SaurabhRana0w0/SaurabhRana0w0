@@ -77,7 +77,7 @@ class AboutMe:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhrana0w0&layout=compact&theme=radical&langs_count=8)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=saurabhrana0w0&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=SaurabhRana0w0&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=saurabhrana0w0&color=blueviolet&style=flat-square)
 
