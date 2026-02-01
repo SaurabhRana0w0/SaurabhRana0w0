@@ -12,10 +12,9 @@ class AboutMe:
         self.name = "Saurabh Rana"
         self.role = "Computer Science Student & Researcher"
         self.age = 17
-        self.birth_year = 2008
         self.location = "India | Remote"
         self.education = "Arizona State University (ASU)"
-        self.tagline = "Building systems that build on imagination and solve everyone's problems"
+        self.tagline = "Turning imagination into systems that move the world forward"
         self.interests = [
             "Machine Learning",
             "Hybrid AI",
@@ -141,7 +140,7 @@ As a researcher, I focus on:
 
 - **🎓 B.S. Computer Science** — Arizona State University
 - **📍 Location** — India (Working Remotely)
-- **🎂 Age** — 17 (Born 2008) — Young researcher making an impact
+- **🎂 Age** — 17 (14/03/2008) — Young researcher making an impact
 - **🧠 Learning Style** — Constantly acquiring new skills in free time
 
 ---
