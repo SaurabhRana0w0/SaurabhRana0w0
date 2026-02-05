@@ -11,7 +11,6 @@ class AboutMe:
     def __init__(self):
         self.name = "Saurabh Rana"
         self.role = "Computer Science Student & Researcher"
-        self.age = 17
         self.location = "India | Remote"
         self.education = "Arizona State University (ASU)"
         self.tagline = "Turning imagination into systems that move the world forward"
@@ -140,7 +139,6 @@ As a researcher, I focus on:
 
 - **🎓 B.S. Computer Science** — Arizona State University
 - **📍 Location** — India (Working Remotely)
-- **🎂 Age** — 17 (14/03/2008) — Young researcher making an impact
 - **🧠 Learning Style** — Constantly acquiring new skills in free time
 
 ---
